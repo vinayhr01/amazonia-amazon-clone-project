@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "626fb936c4eb5a1a18934b80"
+  },
+  "name": "Nike Slim shirt",
+  "slug": "nike-slim-shirt",
+  "image": "/images/p1.jpg",
+  "brand": "Nike",
+  "category": "Shirts",
+  "description": "high quality shirt",
+  "price": 120,
+  "countInStock": 10,
+  "rating": 4.5,
+  "numReviews": 25,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651489078696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651489078696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626fb936c4eb5a1a18934b81"
+  },
+  "name": "Adidas Fit Shirt",
+  "slug": "adidas-fit-shirt",
+  "image": "/images/p2.jpg",
+  "brand": "Adidas",
+  "category": "Shirts",
+  "description": "high quality product",
+  "price": 250,
+  "countInStock": 0,
+  "rating": 4,
+  "numReviews": 10,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651489078697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651489078697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626fb936c4eb5a1a18934b82"
+  },
+  "name": "Nike Slim Pant",
+  "slug": "nike-slim-pant",
+  "image": "/images/p3.jpg",
+  "brand": "Nike",
+  "category": "Pants",
+  "description": "high quality product",
+  "price": 25,
+  "countInStock": 15,
+  "rating": 4.5,
+  "numReviews": 14,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651489078698"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651489078698"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626fb936c4eb5a1a18934b83"
+  },
+  "name": "Adidas Fit Pant",
+  "slug": "adidas-fit-pant",
+  "image": "/images/p4.jpg",
+  "brand": "Puma",
+  "category": "Pants",
+  "description": "high quality product",
+  "price": 65,
+  "countInStock": 15,
+  "rating": 3.5,
+  "numReviews": 10,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651489078698"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651489078698"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628b58b2752ab36e03762bb0"
+  },
+  "name": "Watch",
+  "slug": "watch",
+  "category": "Watches",
+  "image": "/images/p5.jpg",
+  "price": 45,
+  "countInStock": 10,
+  "brand": "Apple",
+  "rating": {
+    "$numberDecimal": "3"
+  },
+  "numReviews": 15,
+  "description": "high quality watch"
+},{
+  "_id": {
+    "$oid": "628b7eb2c23cf63e005e68c1"
+  },
+  "name": "shoes",
+  "slug": "shoes",
+  "category": "Shoes",
+  "image": "/images/p6.jpg",
+  "price": 45,
+  "countInStock": 15,
+  "brand": "puma",
+  "rating": 3.9,
+  "numReviews": 10,
+  "description": "high quality product"
+},{
+  "_id": {
+    "$oid": "628b8040c23cf63e005e68c2"
+  },
+  "name": "goggles",
+  "slug": "sunglasses",
+  "category": "Sunglasses",
+  "image": "/images/p7.jpg",
+  "price": 35,
+  "countInStock": 15,
+  "brand": "levis",
+  "rating": 4,
+  "numReviews": 10,
+  "description": "high quality product"
+},{
+  "_id": {
+    "$oid": "628b8815424fd68cb76c8971"
+  },
+  "name": "Perfumes",
+  "slug": "Perfumes",
+  "category": "Perfumes",
+  "image": "/images/p8.jpg",
+  "price": 50,
+  "countInStock": 15,
+  "brand": "fogg",
+  "rating": 2,
+  "numReviews": 25,
+  "description": "high quality product"
+},{
+  "_id": {
+    "$oid": "628c7212b179fd7156a91dfc"
+  },
+  "name": "Earphones",
+  "slug": "Earphones",
+  "category": "Earphones",
+  "image": "/images/p9.jpg",
+  "price": 25,
+  "countInStock": 15,
+  "brand": "Telex",
+  "rating": 3.9,
+  "numReviews": 10,
+  "description": "avg quality product"
+},{
+  "_id": {
+    "$oid": "628c722db179fd7156a91dfd"
+  },
+  "name": "toys",
+  "slug": "car toy for kids",
+  "category": "Toys",
+  "image": "/images/p10.jpg",
+  "price": 50,
+  "countInStock": 15,
+  "brand": "Hot Wheel",
+  "rating": 4.7,
+  "numReviews": 10,
+  "description": "high quality product"
+}]

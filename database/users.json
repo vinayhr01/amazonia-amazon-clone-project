@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "626fb936c4eb5a1a18934b86"
+  },
+  "name": "vinay",
+  "email": "vinay@gmail.com",
+  "password": "$2a$10$qo5wWYCqqvfjlm.4Jz24DuDD/KdmbKIN/5nSL7p/XVPWtqPnmR3tC",
+  "isAdmin": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651489078769"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653400266657"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626fb936c4eb5a1a18934b87"
+  },
+  "name": "hr",
+  "email": "hr@gmail.com",
+  "password": "$2a$10$er.78XE3tgXDC3bO3YFxVeSo66v5choGNhyw41Gr3Yi5MCHww2qgG",
+  "isAdmin": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651489078769"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653401777051"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628b473a66bf9c106db8388b"
+  },
+  "name": "SHASHANK D R",
+  "email": "shashank@gmail.com",
+  "password": "$2a$10$EQsQ3jjBnths6SwDrpRiguisUj4Kbs0LVo82syAiljMXa3EH/YL6G",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653294906610"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653294906610"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628c73b79cf84e986c0d7b2f"
+  },
+  "name": "DR",
+  "email": "dr067@gmail.com",
+  "password": "$2a$10$lUckq7NrYaQtg.C6CxTizOvHm4pElN2ANfwTncCt/Ey4olenYy8Z6",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653371831857"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653371831857"
+    }
+  },
+  "__v": 0
+}]
